@@ -1,0 +1,261 @@
+{
+    "cat (1).jpg72980": {
+        "filename": "cat (1).jpg",
+        "size": 72980,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 15,
+                    "width": 901,
+                    "height": 645
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (2).jpg48889": {
+        "filename": "cat (2).jpg",
+        "size": 48889,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 198,
+                    "y": 17,
+                    "width": 260,
+                    "height": 166
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 534,
+                    "y": 3,
+                    "width": 185,
+                    "height": 137
+                },
+                "region_attributes": {
+                    "label": "tvmonitor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (3).jpg113452": {
+        "filename": "cat (3).jpg",
+        "size": 113452,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 535,
+                    "y": 59,
+                    "width": 455,
+                    "height": 387
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 18,
+                    "width": 718,
+                    "height": 566
+                },
+                "region_attributes": {
+                    "label": "laptop"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (4).jpg37978": {
+        "filename": "cat (4).jpg",
+        "size": 37978,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 7,
+                    "width": 198,
+                    "height": 152
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 40,
+                    "y": 41,
+                    "width": 236,
+                    "height": 174
+                },
+                "region_attributes": {
+                    "label": "laptop"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (5).jpg55313": {
+        "filename": "cat (5).jpg",
+        "size": 55313,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 67,
+                    "width": 489,
+                    "height": 309
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 3,
+                    "width": 161,
+                    "height": 173
+                },
+                "region_attributes": {
+                    "label": "laptop"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (6).jpg46109": {
+        "filename": "cat (6).jpg",
+        "size": 46109,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 293,
+                    "width": 522,
+                    "height": 192
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 159,
+                    "width": 426,
+                    "height": 173
+                },
+                "region_attributes": {
+                    "label": "tvmonitor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (7).jpg110123": {
+        "filename": "cat (7).jpg",
+        "size": 110123,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 246,
+                    "y": 80,
+                    "width": 160,
+                    "height": 145
+                },
+                "region_attributes": {
+                    "label": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 407,
+                    "y": 86,
+                    "width": 162,
+                    "height": 143
+                },
+                "region_attributes": {
+                    "label": "tvmonitor"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 553,
+                    "y": 181,
+                    "width": 145,
+                    "height": 75
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 184,
+                    "width": 181,
+                    "height": 89
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 293,
+                    "width": 169,
+                    "height": 70
+                },
+                "region_attributes": {
+                    "label": "cat"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cat (8).jpg296853": {
+        "filename": "cat (8).jpg",
+        "size": 296853,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "cat (9).jpg50475": {
+        "filename": "cat (9).jpg",
+        "size": 50475,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "cat (10).jpg167766": {
+        "filename": "cat (10).jpg",
+        "size": 167766,
+        "regions": [],
+        "file_attributes": {}
+    }
+}

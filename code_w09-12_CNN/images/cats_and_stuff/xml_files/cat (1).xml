@@ -1,0 +1,13 @@
+<annotation>
+	<folder>D:\Drive_quangtnUTE\02_Work\At_UTE\02_Teaching\DeepLearning\qLectures_Code\2020-2021_Sem2\Code\w08-11_Chap14_CNN\images\cats_and_stuff</folder>
+	<filename>cat (1).jpg</filename>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+    <object><name>cat</name><pose>Unknown</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>5</xmin><ymin>15</ymin><xmax>906</xmax><ymax>660</ymax></bndbox></object></annotation>
